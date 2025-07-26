@@ -18,7 +18,7 @@ AI Vault is a smart finance tracker that helps users manage their money efficien
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 | Tech               | Purpose                          |
 |--------------------|----------------------------------|
